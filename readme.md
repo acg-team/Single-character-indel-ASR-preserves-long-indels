@@ -21,6 +21,7 @@ pip3 install -r requirements.txt
 <ul>
 	<li> mammals_01_stat.ipynb contains functions for indel pattern plots for mammalian data.</li>
 	<li> mammals_02_dynamic_of_gaps.ipynb includes functions for calculating dynamic of gap pattern for each mammalian data.</li>
+	<li> mammals_03_indel_length includes functions for ploting indel length for mammalian data</li>
 	<li> simulation_01_acc.ipynb contains functions for computing accuracy of ARPIP inference on simulated data.</li>
 	<li> simulation_02_dynamic_of_gaps.ipynb contains functions for calculating dynamic of gap pattern for each simulated data. </li>
 	<li> simulation_03_stat.ipynb contains functions for indel pattern plots for simulated data.</li>
