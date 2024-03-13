@@ -1,5 +1,5 @@
 # The Python scripts used for the paper entitled:
-### Single character insertion-deletion model preserves long indels in ancestral sequence reconstruction
+### Single-character insertion-deletion model preserves long indels in ancestral sequence reconstruction
 
 ## Requirments
 For this tutorial, you should already have [Python 3.9 or higher](https://realpython.com/installing-python/), [jupyter notebook](https://jupyter.org/install) along with the following libraries:
@@ -30,11 +30,17 @@ pip3 install -r requirements.txt
 
 </ul>
 To get the figures in the manuscript all the necessary files and scripts are provided here.
-Moreover, suplemental data is stored in another repository with [this link](). 
+Moreover, suplemental data is stored in another repository with [this link](https://doi.org/10.5281/zenodo.10798097). 
 
 ## Citation
 
-Please cite [Single-character insertion-deletion model preserves long indels in ancestral sequence reconstruction](https://doi.org/10.1101/2024.03.09.584071)
+Please cite:
+
+Gholamhossein Jowkar, Julija Pecerska, Manuel Gil, and Maria Anisimova  
+**Single-character insertion-deletion model preserves long indels in ancestral sequence reconstruction.**  
+BioRxiv, 2024;  
+doi:[10.1101/2024.03.09.584071](https://doi.org/10.1101/2024.03.09.584071)
+
 ---
 ## Author
 
