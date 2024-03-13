@@ -31,6 +31,9 @@ pip3 install -r requirements.txt
 To get the figures in the manuscript all the necessary files and scripts are provided here.
 Moreover, suplemental data is stored in another repository with [this link](). 
 
+## Citation
+
+Please cite [Single-character insertion-deletion model preserves long indels in ancestral sequence reconstruction](https://doi.org/10.1101/2024.03.09.584071)
 ---
 ## Author
 
