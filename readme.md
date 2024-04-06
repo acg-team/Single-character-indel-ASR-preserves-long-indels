@@ -29,6 +29,7 @@ pip3 install -r requirements.txt
 	<li> requirements.txt contains library versions of dependencies.</li>
 
 </ul>
+
 To get the figures in the manuscript all the necessary files and scripts are provided here.
 Moreover, suplemental data is stored in another repository with [this link](https://doi.org/10.5281/zenodo.10798097). 
 
