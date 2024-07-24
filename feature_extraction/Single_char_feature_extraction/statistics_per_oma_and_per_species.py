@@ -304,7 +304,7 @@ if __name__=='__main__':
     ungap_count = 0
 
     start_time = time.time()
-    path = "../../mammals_data/new_output"
+    path = "../../mammals_data/new_output/"
     os.chdir(path)
 
     header_asr = ["OMA_group", "aln_len", "total_gap_count", "msa_gap_count", "asr_gap_count", "min_gap_count"
